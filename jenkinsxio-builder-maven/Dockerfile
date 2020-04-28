@@ -1,2 +1,2 @@
-FROM gcr.io/jenkinsxio/builder-maven:2.0.1275-613
+FROM gcr.io/jenkinsxio/builder-maven:2.1.10-637
 MAINTAINER xishu <xuxigang.nj@gmail.com>
